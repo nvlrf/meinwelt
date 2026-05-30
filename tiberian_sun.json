@@ -4,10 +4,10 @@
   "updated_at": "2026-05-30T12:00:00Z",
   "access_codes": [
     {
-      "label": "DIGITFOX",
-      "hash": "df949c76e3a3b192fddbdd805fc28827f9d5e65005529fdda74dac852c7cfd7e",
+      "label": "NOD-GDI",
+      "hash": "18954801cffd2a4526245746e80f8ceca7e41b7a364a6496c80369758ec68d1c",
       "status": "active",
-      "expires_at": "2026-12-31"
+      "expires_at": "Permanent"
     },
     {
       "label": "USER-002",
