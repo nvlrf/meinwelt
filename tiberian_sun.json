@@ -1,0 +1,31 @@
+{
+  "app": "DIGITFOX CONTROLLER",
+  "version": "1.1",
+  "updated_at": "2026-05-30T12:00:00Z",
+  "access_codes": [
+    {
+      "label": "DIGITFOX",
+      "hash": "df949c76e3a3b192fddbdd805fc28827f9d5e65005529fdda74dac852c7cfd7e",
+      "status": "active",
+      "expires_at": "2026-12-31"
+    },
+    {
+      "label": "USER-002",
+      "hash": "389a9ee76c7b0dab88c8ba974b109d4bfc5a9b22c8e42c05ab003e70af602467",
+      "status": "active",
+      "expires_at": "2026-12-31"
+    },
+    {
+      "label": "USER-003",
+      "hash": "65ad1a8991dbff6c714f4539cc27748b566b9d51bff4ddf6cec08c28452de638",
+      "status": "active",
+      "expires_at": "2026-12-31"
+    },
+    {
+      "label": "USER-004",
+      "hash": "528d92fd7ece5db33f18bde584f4cafdeb8a8a48c02b93c0e6e79d7f9b43ea8e",
+      "status": "active",
+      "expires_at": "2026-12-31"
+    }
+  ]
+}
